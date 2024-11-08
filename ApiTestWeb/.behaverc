@@ -1,0 +1,4 @@
+[behave]
+color=True
+paths=OrganizationBooker/tests/acceptance/
+      

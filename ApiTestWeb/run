@@ -1,0 +1,2 @@
+behave -f allure_behave.formatter:AllureFormatter -o OrganizationBooker\Reports\allure_result -D browser=%Browser%
+allure generate Reports\allure_result -o Reports\allure_report --clean

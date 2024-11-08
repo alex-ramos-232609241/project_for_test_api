@@ -1,0 +1,2 @@
+class FlujoModificarParBooking:
+    pass
